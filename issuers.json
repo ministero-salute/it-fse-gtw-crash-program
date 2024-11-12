@@ -1,6 +1,6 @@
 {
-  "counter" : 18,
-  "dataAggiornamento" : "05-11-2024 15:01:31",
+  "counter" : 19,
+  "dataAggiornamento" : "12-11-2024 11:32:38",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -73,5 +73,9 @@
     "nome" : "integrity:S1#190#Middleware190",
     "regione" : "REGIONE_SICILIA",
     "cfPaziente" : "FSESCL80A41H163O"
+  }, {
+    "nome" : "integrity:S1#110#REGIONEMARCHETEST",
+    "regione" : "REGIONE_MARCHE",
+    "cfPaziente" : "PRFSRA93C69A252A"
   } ]
 }
