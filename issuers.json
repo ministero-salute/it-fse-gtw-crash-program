@@ -1,6 +1,6 @@
 {
-  "counter" : 19,
-  "dataAggiornamento" : "13-11-2024 17:29:45",
+  "counter" : 20,
+  "dataAggiornamento" : "09-12-2024 15:27:11",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -77,5 +77,9 @@
     "nome" : "integrity:S1#190#INStestGTW",
     "regione" : "REGIONE_SICILIA",
     "cfPaziente" : "FSESCL80A41H163O"
+  }, {
+    "nome" : "integrity:S1#030#REGIONELOMBARDIA-TEST",
+    "regione" : "REGIONE_LOMBARDIA",
+    "cfPaziente" : "KRNLXD01R50A946E"
   } ]
 }
