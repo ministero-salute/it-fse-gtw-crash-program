@@ -1,6 +1,6 @@
 {
-  "counter" : 21,
-  "dataAggiornamento" : "09-12-2024 15:45:25",
+  "counter" : 22,
+  "dataAggiornamento" : "01-04-2025 13:39:50",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -42,10 +42,6 @@
     "regione" : "REGIONE_FRIULI_VENEZIA_GIULIA",
     "cfPaziente" : "PRVNSL72B68L101R"
   }, {
-    "nome" : "integrity:S1#080#EMILIAROMAGNA",
-    "regione" : "REGIONE_EMILIA_ROMAGNA",
-    "cfPaziente" : "PRVPRV59T16L424B"
-  }, {
     "nome" : "integrity:S1#140#REGIONEMOLISETEST",
     "regione" : "REGIONE_MOLISE",
     "cfPaziente" : "ZCCSBT75C05I282D"
@@ -85,5 +81,13 @@
     "nome" : "integrity:S1#150#Middleware150",
     "regione" : "REGIONE_CAMPANIA",
     "cfPaziente" : "DCRNTN00M25F839J"
+  }, {
+    "nome" : "integrity:S1#111#TEST-CRASH-5",
+    "regione" : "string",
+    "cfPaziente" : "string"
+  }, {
+    "nome" : "integrity:S1#080#EMILIAROMAGNA",
+    "regione" : "REGIONE_EMILIA_ROMAGNA",
+    "cfPaziente" : "CRSFSN80A01A944O"
   } ]
 }
